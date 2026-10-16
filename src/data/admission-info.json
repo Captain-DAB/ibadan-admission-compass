@@ -1,0 +1,168 @@
+[
+  {
+    "id": "minimum-age",
+    "category": "Requirements",
+    "question": "Is there a minimum age for admission?",
+    "answer": "An official University of Ibadan screening notice states that prospective students should be at least 16 years old at the time of admission. Because age guidance can be tied to an admission cycle, confirm it in the current notice before relying on it.",
+    "keywords": ["age", "16", "old", "eligibility", "underage"],
+    "sources": [
+      { "title": "Post-UTME / Direct Entry screening notice (2024/2025) — archived cycle", "url": "https://ui.edu.ng/news/post-utme-direct-entry-screening-prospective-candidates-20242025-admission-exercise" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": true
+  },
+  {
+    "id": "minimum-utme-score",
+    "category": "UTME & Direct Entry",
+    "question": "What is the minimum UTME score?",
+    "answer": "The University's Undergraduate Admissions Office page states a minimum UTME score of 200. UTME cut-offs and eligibility can change for each admissions cycle and programme, so confirm the current University's notice before applying.",
+    "keywords": ["utme", "jamb", "score", "cutoff", "cut-off", "points", "200", "eligibility"],
+    "sources": [
+      { "title": "University of Ibadan Undergraduate Admissions Office", "url": "https://ui.edu.ng/content/undergraduate-admissions-office" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": true
+  },
+  {
+    "id": "olevel-credits",
+    "category": "Requirements",
+    "question": "How many O’Level credits do I need?",
+    "answer": "University regulations state a general minimum of five relevant O’Level credits in one sitting or six in two sittings. Required subjects and sitting limits depend on the chosen programme; check its current requirements in the official regulations before applying.",
+    "keywords": ["o-level", "olevel", "waec", "neco", "credits", "subjects", "sitting", "results", "requirements"],
+    "sources": [
+      { "title": "UI Regulations Governing Undergraduate Admissions", "url": "https://admissions.ui.edu.ng/Regulation.pdf" },
+      { "title": "University of Ibadan Undergraduate Admissions Office", "url": "https://ui.edu.ng/content/undergraduate-admissions-office" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": true
+  },
+  {
+    "id": "programme-list",
+    "category": "Programmes",
+    "question": "Which programmes are available?",
+    "answer": "Programme availability and subject requirements vary. A complete, currently verified undergraduate programme list is not available in this assistant's knowledge yet. Please check the University's admissions portal and current official prospectus; contact the admissions office for programme-specific confirmation.",
+    "keywords": ["programmes", "programs", "courses", "departments", "course", "degree", "study", "faculty"],
+    "sources": [
+      { "title": "University of Ibadan admissions portal", "url": "https://admissions.ui.edu.ng/" },
+      { "title": "University of Ibadan Undergraduate Admissions Office", "url": "https://ui.edu.ng/content/undergraduate-admissions-office" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": false
+  },
+  {
+    "id": "programme-requirements",
+    "category": "Programmes",
+    "question": "How do I check requirements for my course?",
+    "answer": "Subject combinations and O’Level requirements are programme-specific. Check the latest UI admissions regulations and current official prospectus for your intended programme. A course-specific requirement should not be guessed from another programme's requirements.",
+    "keywords": ["programme requirements", "program requirements", "course requirements", "subject combination", "department", "faculty", "jamb combination"],
+    "sources": [
+      { "title": "UI Regulations Governing Undergraduate Admissions", "url": "https://admissions.ui.edu.ng/Regulation.pdf" },
+      { "title": "University of Ibadan Undergraduate Admissions Office", "url": "https://ui.edu.ng/content/undergraduate-admissions-office" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": true
+  },
+  {
+    "id": "apply-online",
+    "category": "Application Process",
+    "question": "Where do I apply?",
+    "answer": "The University manages undergraduate application and screening registration through its official admissions portal: admissions.ui.edu.ng. Follow the instructions on the current admissions notice, and verify you are on the official University website before entering personal information.",
+    "keywords": ["apply", "application", "portal", "register", "registration", "admissions.ui.edu.ng", "account", "sign up"],
+    "sources": [
+      { "title": "University of Ibadan admissions portal", "url": "https://admissions.ui.edu.ng/" },
+      { "title": "University of Ibadan Undergraduate Admissions Office", "url": "https://ui.edu.ng/content/undergraduate-admissions-office" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": true
+  },
+  {
+    "id": "application-steps",
+    "category": "Application Process",
+    "question": "What are the application steps?",
+    "answer": "Start at the official UI admissions portal and follow the steps in the notice for your admission cycle. The exact registration window, screening instructions and documents are cycle-specific. This assistant does not have a currently verified step-by-step notice; consult the live portal before taking action.",
+    "keywords": ["application steps", "how to apply", "process", "procedure", "documents", "registration", "application deadline", "application fee"],
+    "sources": [
+      { "title": "University of Ibadan admissions portal", "url": "https://admissions.ui.edu.ng/" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": false
+  },
+  {
+    "id": "screening-registration",
+    "category": "Screening",
+    "question": "How does Post-UTME screening work?",
+    "answer": "UI announces its UTME screening arrangements in an official admissions notice for each cycle. Check the current notice at the admissions portal for registration dates, screening format, eligible candidates and instructions. The 2024/2025 notice is archived and should not be used as a current schedule.",
+    "keywords": ["screening", "post-utme", "post utme", "aptitude test", "screen", "exam", "screening format", "online"],
+    "sources": [
+      { "title": "University of Ibadan admissions portal", "url": "https://admissions.ui.edu.ng/" },
+      { "title": "Post-UTME / Direct Entry screening notice (2024/2025) — archived cycle", "url": "https://ui.edu.ng/news/post-utme-direct-entry-screening-prospective-candidates-20242025-admission-exercise" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": true
+  },
+  {
+    "id": "screening-deadlines",
+    "category": "Screening",
+    "question": "When does screening registration close?",
+    "answer": "A current screening deadline could not be verified. Registration dates are announced for each cycle and may change; check the latest official admissions portal notice rather than relying on an archived deadline.",
+    "keywords": ["screening deadline", "closing date", "deadline", "when", "close", "opens", "opening date", "2026", "2025"],
+    "sources": [
+      { "title": "University of Ibadan admissions portal", "url": "https://admissions.ui.edu.ng/" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": false
+  },
+  {
+    "id": "direct-entry-eligibility",
+    "category": "UTME & Direct Entry",
+    "question": "Who can apply through Direct Entry?",
+    "answer": "The Undergraduate Admissions Office describes Direct Entry for applicants with qualifications such as A-level certificates, NCE, ND or HND who seek entry into a higher level. Accepted qualifications and programme-specific entry levels must be confirmed against the current official regulations.",
+    "keywords": ["direct entry", "de", "a level", "a-level", "alevel", "nce", "nd", "hnd", "higher level", "200 level", "300 level"],
+    "sources": [
+      { "title": "University of Ibadan Undergraduate Admissions Office", "url": "https://ui.edu.ng/content/undergraduate-admissions-office" },
+      { "title": "UI Regulations Governing Undergraduate Admissions", "url": "https://admissions.ui.edu.ng/Regulation.pdf" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": true
+  },
+  {
+    "id": "tuition-overview",
+    "category": "Fees",
+    "question": "How much are University of Ibadan fees?",
+    "answer": "A current, complete fee amount could not be verified. A University payment guide published for 2025 distinguishes bundled fees for 100–300 level students from school fees for 400 level and above, alongside separate levies. Amounts depend on a student's programme and portal; confirm your personal charges in the official student portal before payment.",
+    "keywords": ["fees", "fee", "tuition", "school fees", "charges", "levy", "bundled", "cost", "payment", "naira", "how much"],
+    "sources": [
+      { "title": "UI Student Payment Guide — 2025 update", "url": "https://ui.edu.ng/sites/default/files/payment%202%20new%202025%20update.pdf" },
+      { "title": "UI student portal", "url": "https://student-portal.ui.edu.ng/" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": true
+  },
+  {
+    "id": "acceptance-fee",
+    "category": "Fees",
+    "question": "How much is the acceptance fee?",
+    "answer": "A current acceptance fee could not be verified. The NGN 50,000 amount published in a University notice relates to the 2024/2025 cycle and may not apply now. Check the latest UI admissions notice or your offer instructions before paying.",
+    "keywords": ["acceptance fee", "acceptance", "admission fee", "accept", "payment", "50,000", "50000"],
+    "sources": [
+      { "title": "Acceptance fee notice (2024/2025) — archived cycle", "url": "https://ui.edu.ng/news/utme-direct-entry-acceptance-fee-payment-prospective-candidates-20242025-admission-exercise-0" },
+      { "title": "University of Ibadan admissions portal", "url": "https://admissions.ui.edu.ng/" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": true
+  },
+  {
+    "id": "official-sources",
+    "category": "FAQs",
+    "question": "Where can I find official admission information?",
+    "answer": "For admission announcements and registration, start at the University of Ibadan admissions portal. For general policy, consult the Undergraduate Admissions Office and official admission regulations. Check publication dates before relying on older cycle notices.",
+    "keywords": ["official", "source", "website", "link", "where", "information", "help", "contact", "admissions office", "verify"],
+    "sources": [
+      { "title": "University of Ibadan admissions portal", "url": "https://admissions.ui.edu.ng/" },
+      { "title": "University of Ibadan Undergraduate Admissions Office", "url": "https://ui.edu.ng/content/undergraduate-admissions-office" },
+      { "title": "UI Regulations Governing Undergraduate Admissions", "url": "https://admissions.ui.edu.ng/Regulation.pdf" }
+    ],
+    "updatedAt": "2026-10-16",
+    "verified": true
+  }
+]
