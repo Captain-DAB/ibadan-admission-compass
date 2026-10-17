@@ -10,7 +10,7 @@
   --radius-lg: 0.75rem;
   --radius-xl: 1rem;
   --font-sans: "Manrope", sans-serif;
-  --font-display: "Instrument Serif", Georgia, serif;
+  --font-display: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-card: var(--card);
@@ -319,4 +319,102 @@
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
+}
+
+/* Conversational admissions assistant */
+.assistant-app { min-height: 100svh; background: var(--background); }
+.assistant-header { width: min(100% - 72px, 1120px); min-height: 76px; margin-inline: auto; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line-soft); }
+.assistant-app .brand-lockup { gap: 11px; }
+.assistant-app .brand-mark { width: 39px; height: 39px; }
+.assistant-app .brand-wordmark { gap: 1px; }
+.assistant-app .brand-name { color: var(--ink); font-size: 13px; font-weight: 700; }
+.assistant-app .brand-service { color: var(--muted-foreground); font-size: 10px; }
+.header-assurance { display: inline-flex; align-items: center; gap: 7px; color: var(--muted-foreground); font-size: 11px; }
+.header-assurance svg { width: 15px; height: 15px; color: var(--crimson); }
+.assistant-landing { width: min(100% - 48px, 830px); margin-inline: auto; padding: clamp(42px, 7vh, 78px) 0 40px; }
+.assistant-intro { margin: 0 auto 31px; text-align: center; }
+.assistant-kicker { display: inline-flex; align-items: center; gap: 9px; color: var(--crimson); font-size: 9px; font-weight: 700; }
+.assistant-kicker > span { width: 6px; height: 6px; border-radius: 50%; background: var(--crimson); }
+.assistant-intro h1 { margin-top: 17px; color: var(--ink); font-family: var(--font-display); font-size: clamp(35px, 5vw, 51px); font-weight: 650; line-height: 1.12; }
+.assistant-intro h1 em { color: var(--crimson); font-style: normal; }
+.assistant-subtitle { margin-top: 13px; color: var(--ink); font-size: 15px; font-weight: 600; line-height: 1.5; }
+.assistant-description { max-width: 590px; margin: 8px auto 0; color: var(--muted-foreground); font-size: 12px; line-height: 1.75; }
+.assistant-app .chat-panel { position: relative; top: auto; display: flex; width: 100%; height: min(560px, 66vh); min-height: 430px; flex-direction: column; overflow: hidden; border: 1px solid var(--line-soft); border-radius: 8px; background: var(--card); box-shadow: 0 20px 60px oklch(0.25 0.05 248 / 0.08); scroll-margin-top: 24px; }
+.assistant-app .chat-panel-heading { min-height: 68px; flex-shrink: 0; justify-content: flex-start; gap: 11px; padding: 13px 19px; }
+.chat-heading-mark-wrap { display: grid; width: 39px; height: 39px; flex: 0 0 auto; place-items: center; overflow: hidden; border: 1px solid var(--line-soft); border-radius: 6px; background: var(--warm); }
+.chat-heading-mark-wrap img { width: 34px; height: 34px; object-fit: contain; }
+.assistant-app .chat-heading-copy { display: grid; gap: 4px; }
+.assistant-app .chat-heading-copy h2 { margin: 0; color: var(--ink); font-family: var(--font-sans); font-size: 12px; font-weight: 700; line-height: 1.2; }
+.assistant-app .chat-heading-copy > span { display: inline-flex; align-items: center; gap: 6px; color: var(--muted-foreground); font-size: 10px; }
+.assistant-app .status-dot { width: 6px; height: 6px; }
+.chat-context-label { margin-left: auto; color: var(--muted-foreground); font-size: 8px; font-weight: 700; }
+.assistant-app .chat-transcript { flex: 1; min-height: 0; }
+.assistant-app .conversation-scroll { min-height: 0; width: 100%; }
+.assistant-app .conversation-messages { gap: 17px; padding: 22px 24px 16px; }
+.assistant-app .welcome-message { width: 100%; align-items: stretch; }
+.assistant-app .welcome-label { color: var(--crimson); font-size: 8px; }
+.assistant-app .welcome-message h3 { margin-top: 10px; color: var(--ink); font-family: var(--font-display); font-size: 27px; font-weight: 650; line-height: 1.2; }
+.assistant-app .welcome-message > p { max-width: 440px; margin-top: 6px; color: var(--muted-foreground); font-size: 11px; line-height: 1.65; }
+.assistant-app .starter-list { display: flex; flex-flow: row wrap; gap: 8px; margin-top: 20px; }
+.assistant-app .starter-question { min-height: 37px; width: auto; justify-content: flex-start; gap: 13px; border: 1px solid var(--line-soft); border-radius: 5px; padding: 0 11px; color: var(--ink); background: var(--card); text-align: left; transition: background 160ms ease, border-color 160ms ease, color 160ms ease; }
+.assistant-app .starter-question span { font-size: 10px; font-weight: 550; }
+.assistant-app .starter-question svg { width: 13px; height: 13px; flex: 0 0 auto; color: var(--crimson); }
+.assistant-app .starter-question:hover { border-color: var(--primary); background: var(--secondary); color: var(--ink); }
+.assistant-app .admission-message { max-width: 88%; gap: 5px; }
+.assistant-app .answer-brand { display: flex; align-items: center; gap: 7px; }
+.assistant-app .answer-brand img { width: 24px; height: 24px; object-fit: contain; }
+.assistant-app .answer-brand span { color: var(--muted-foreground); font-size: 8px; font-weight: 700; }
+.assistant-app .message-user-content { border-radius: 7px; padding: 10px 13px; font-size: 11px; line-height: 1.7; }
+.assistant-app .message-answer-content { padding-block: 3px; color: var(--ink); font-size: 11px; line-height: 1.75; }
+.assistant-app .answer-sources { display: flex; flex-direction: column; gap: 6px; }
+.assistant-app .answer-sources a { display: grid; grid-template-columns: 14px minmax(0, 1fr); gap: 6px; color: var(--muted-foreground); font-size: 9px; line-height: 1.5; text-decoration: underline; text-underline-offset: 2px; }
+.assistant-app .answer-sources svg { width: 12px; height: 12px; color: var(--crimson); }
+.assistant-app .searching-indicator { display: flex; align-items: center; gap: 8px; color: var(--muted-foreground); font-size: 10px; }
+.assistant-app .composer { flex-shrink: 0; margin: 0 16px; border-color: var(--line-soft); border-radius: 6px; background: var(--background); }
+.assistant-app .composer-textarea { min-height: 47px; max-height: 105px; padding: 12px 13px 8px; font-family: var(--font-sans); font-size: 11px; line-height: 1.5; }
+.assistant-app .composer-textarea::placeholder { color: var(--muted-foreground); }
+.assistant-app .composer-footer { justify-content: space-between; padding: 3px 8px 7px; }
+.assistant-app .composer-hint { display: inline-flex; align-items: center; gap: 5px; color: var(--muted-foreground); font-size: 9px; }
+.assistant-app .composer-hint svg { width: 11px; height: 11px; color: var(--crimson); }
+.assistant-app .send-button { width: 31px; height: 31px; border-radius: 5px; background: var(--primary); color: var(--primary-foreground); }
+.assistant-app .privacy-note { padding: 8px 10px 10px; color: var(--muted-foreground); font-size: 8px; }
+.assistant-footnote { display: flex; align-items: center; gap: 8px; margin-top: 15px; color: var(--muted-foreground); font-size: 10px; }
+.assistant-footnote > svg { width: 14px; height: 14px; flex: 0 0 auto; color: var(--crimson); }
+.assistant-app .footnote-action { height: 30px; margin-left: auto; gap: 6px; color: var(--ink); font-size: 10px; }
+.assistant-app .footnote-action svg { width: 13px; height: 13px; color: var(--crimson); }
+
+@media (max-width: 640px) {
+  .assistant-header { width: calc(100% - 36px); min-height: 64px; }
+  .assistant-app .brand-mark { width: 35px; height: 35px; }
+  .assistant-app .brand-name { font-size: 11px; }
+  .assistant-app .brand-service { font-size: 9px; }
+  .header-assurance { gap: 5px; font-size: 9px; }
+  .header-assurance svg { width: 13px; height: 13px; }
+  .assistant-landing { width: calc(100% - 30px); padding-top: 38px; }
+  .assistant-intro { margin-bottom: 23px; }
+  .assistant-intro h1 { margin-top: 13px; font-size: clamp(32px, 9vw, 43px); }
+  .assistant-subtitle { max-width: 360px; margin: 10px auto 0; font-size: 13px; }
+  .assistant-description { max-width: 420px; font-size: 11px; }
+  .assistant-app .chat-panel { height: min(570px, 68svh); min-height: 420px; }
+  .assistant-app .chat-panel-heading { min-height: 62px; padding: 10px 12px; }
+  .chat-heading-mark-wrap { width: 34px; height: 34px; }
+  .chat-heading-mark-wrap img { width: 30px; height: 30px; }
+  .chat-context-label { font-size: 7px; }
+  .assistant-app .conversation-messages { padding: 18px 14px 14px; }
+  .assistant-app .welcome-message h3 { font-size: 23px; }
+  .assistant-app .starter-list { gap: 7px; margin-top: 16px; }
+  .assistant-app .starter-question { min-height: 35px; max-width: 100%; padding-inline: 9px; }
+  .assistant-app .starter-question span { font-size: 9px; }
+  .assistant-app .composer { margin-inline: 10px; }
+  .assistant-app .composer-hint { font-size: 8px; }
+  .assistant-footnote { align-items: flex-start; font-size: 9px; line-height: 1.5; }
+  .assistant-app .footnote-action { flex: 0 0 auto; margin-top: -6px; padding-inline: 7px; font-size: 9px; }
+}
+
+@media (max-width: 380px) {
+  .header-assurance { font-size: 0; }
+  .header-assurance svg { width: 16px; height: 16px; }
+  .chat-context-label { display: none; }
+  .assistant-app .starter-list { flex-direction: column; align-items: stretch; }
+  .assistant-app .starter-question { justify-content: space-between; }
 }
