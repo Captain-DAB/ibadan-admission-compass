@@ -1,0 +1,104 @@
+[
+  {
+    "id": "prog-cs",
+    "name": "Computer Science",
+    "faculty": "Faculty of Science / Computing",
+    "category": "Science",
+    "summary": "B.Sc Computer Science at the University of Ibadan. The Department of Computer Science states a 4-year programme for UTME students and 3 years for Direct Entry students.",
+    "admissionInfo": "Entry is via UTME into 100 level or Direct Entry where qualifications permit. University-wide UTME minimum is 200/400. Screening registration is done on the official admissions portal when announced.",
+    "requirements": "UTME subjects: English Language, Mathematics, Chemistry and Physics. O’Level: 5 credits at one sitting or 6 at two sittings including English Language, Mathematics, Chemistry, Physics and one other Science subject (excluding Agricultural Science). Direct Entry: two A-level passes in Mathematics (pure or applied) and Physics; or OND/HND Computer Science / other Mathematics-based courses with Upper Credit.",
+    "relatedFaqs": [
+      "How do I enter UI as a Computer Science student?",
+      "What is the minimum UTME score?",
+      "How do I apply for admission?"
+    ],
+    "keywords": ["computer science", "csc", "computing", "science"],
+    "source": "UI Regulations (UTME & Direct Entry); sci.ui.edu.ng Computer Science",
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "prog-medicine",
+    "name": "Medicine and Surgery",
+    "faculty": "College of Medicine",
+    "category": "Medicine",
+    "summary": "Medicine & Surgery programme under the College of Medicine, University of Ibadan, as listed in the official admissions regulations.",
+    "admissionInfo": "For the 2026/2027 screening notice, candidates seeking College of Medicine programmes must possess five (5) credits at one sitting in relevant O’Level subjects. Competitive cut-offs apply; confirm the current cycle on official notices.",
+    "requirements": "UTME subjects: English Language, Physics, Chemistry and Biology. O’Level: 5 credit passes in English Language, Mathematics, Physics, Chemistry and Biology (UI accepts 5 credit passes at one sitting in those subjects). Direct Entry: (i) 3 A-level passes in Physics, Chemistry, Biology or Zoology plus UTME requirements; or (ii) B.Sc in relevant fields.",
+    "relatedFaqs": [
+      "What are the admission requirements?",
+      "How does the screening process work?",
+      "What documents do I need?"
+    ],
+    "keywords": ["medicine", "surgery", "mbbs", "college of medicine"],
+    "source": "UI Regulations (UTME & Direct Entry); Screening Notice 2026/2027",
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "prog-law",
+    "name": "Law",
+    "faculty": "Faculty of Law",
+    "category": "Law",
+    "summary": "Law programme at the University of Ibadan as published in the official UTME and Direct Entry regulations.",
+    "admissionInfo": "Admission is through UTME or Direct Entry as set out in the University regulations. Confirm the current cycle details on the admissions portal.",
+    "requirements": "UTME subjects include English Language and any three subjects from Arts, Social Science and/or Science. O’Level: 5 subjects at one sitting or 6 at two sittings to include English Language, Literature in English and other approved subjects. Direct Entry includes Advanced Level papers plus required O’Level credits including English Language and Literature in English, or a good first degree with credit in English Language and Literature at O’Level (as stated in the regulations).",
+    "relatedFaqs": [
+      "How do I apply for admission?",
+      "What programmes are available?",
+      "What documents do I need?"
+    ],
+    "keywords": ["law", "llb", "faculty of law"],
+    "source": "UI Regulations (UTME & Direct Entry)",
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "prog-economics",
+    "name": "Economics",
+    "faculty": "Faculty of Economics and Management Sciences",
+    "category": "Social Sciences",
+    "summary": "Economics programme listed under Economics and Management Sciences in the official UI admissions regulations.",
+    "admissionInfo": "University-wide rules require a credit pass in Mathematics for Economics. Entry is via UTME or Direct Entry as published in the regulations.",
+    "requirements": "UTME subjects: English Language, Economics, Mathematics and any of Government, History, Geography, Literature in English, CRK/IRK. O’Level: 5 subjects at one sitting or 6 at two sittings to include English Language, Mathematics, Economics and any two/three of Arts, Social Sciences or Science subjects. Direct Entry: two A-level passes in Economics and any one of Mathematics or Statistics, Geography, History, Government, Physics, Chemistry and Agricultural Science. IBADAN accepts 2 A-level passes but O’Level credits should include Mathematics and Economics.",
+    "relatedFaqs": [
+      "What are the admission requirements?",
+      "What is the minimum UTME score?",
+      "How do I apply for admission?"
+    ],
+    "keywords": ["economics", "social sciences", "management"],
+    "source": "UI Regulations (UTME & Direct Entry); Undergraduate Admissions Office",
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "prog-english",
+    "name": "English",
+    "faculty": "Faculty of Arts",
+    "category": "Arts",
+    "summary": "English Language programme in the Faculty of Arts, University of Ibadan, as published in the official admissions regulations.",
+    "admissionInfo": "Entry is via UTME or Direct Entry according to the Arts — English Language entry in the regulations.",
+    "requirements": "UTME subjects: English Language and two Arts subjects including Literature in English and any other one from Arts or Social Sciences. O’Level: 5 subjects at one sitting or 6 at two sittings to include English Language, two Arts subjects including Literature in English and any other two or three subjects from Arts, Social Sciences or Science. Direct Entry: two A-level subjects to include Literature in English. IBADAN accepts at least Credit pass in two NCE teaching subjects including English Literature (NOT General English), provided basic O’Level requirements are met.",
+    "relatedFaqs": [
+      "What programmes are available?",
+      "What documents do I need?",
+      "How does the screening process work?"
+    ],
+    "keywords": ["english", "arts", "literature"],
+    "source": "UI Regulations (UTME & Direct Entry)",
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "prog-agriculture",
+    "name": "Agricultural Economics",
+    "faculty": "Faculty of Agriculture",
+    "category": "Agriculture",
+    "summary": "Agricultural Economics is listed under Agriculture in the official UI UTME and Direct Entry regulations (representative Agriculture programme).",
+    "admissionInfo": "Entry follows Agriculture faculty rules in the official regulations, via UTME or Direct Entry/related NCE/OND/HND where accepted.",
+    "requirements": "UTME subjects: English Language, Chemistry, Agriculture or Biology, Mathematics or Physics. O’Level: 5 subjects at one sitting or 6 at two sittings to include English Language, Biology/Agric Science, Chemistry, Mathematics and any one/two of Geography, Physics and Economics. Direct Entry: 2 A-level passes in Chemistry and one from Biology/Botany/Zoology/Agricultural Science, Economics, Physics, Geography and Geology/Mathematics (Pure & Applied). IBADAN accepts NCE/OND/HND in related fields; also accepts O’Level credit in Biology and credit in Agric Science as noted in the regulations.",
+    "relatedFaqs": [
+      "What are the admission requirements?",
+      "How do I apply for admission?",
+      "What is the minimum UTME score?"
+    ],
+    "keywords": ["agriculture", "agricultural economics", "agronomy", "farming"],
+    "source": "UI Regulations (UTME & Direct Entry)",
+    "lastUpdated": "2026"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "fee-001",
+    "category": "fees",
+    "question": "How much are University of Ibadan fees?",
+    "answer": "School / student fees are not a single fixed amount for every student. A University payment guide published for 2025 distinguishes bundled fees for 100–300 level students from school fees for 400 level and above, alongside separate levies. Amounts depend on programme and the student portal. Confirm your personal charges in the official student portal before payment.",
+    "keywords": [
+      "fees",
+      "fee",
+      "tuition",
+      "school fees",
+      "charges",
+      "levy",
+      "bundled",
+      "cost",
+      "payment",
+      "naira",
+      "how much"
+    ],
+    "intent": "fees",
+    "source": "UI Student Payment Guide — 2025 update",
+    "sourceUrl": "https://ui.edu.ng/sites/default/files/payment%202%20new%202025%20update.pdf",
+    "sources": [
+      {
+        "title": "UI Student Payment Guide — 2025 update",
+        "url": "https://ui.edu.ng/sites/default/files/payment%202%20new%202025%20update.pdf"
+      },
+      {
+        "title": "UI student portal",
+        "url": "https://student-portal.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "fee-002",
+    "category": "fees",
+    "question": "How much is the acceptance fee?",
+    "answer": "A current acceptance fee for the newest offer cycle should be confirmed on your offer notice or the latest University publication. An earlier University notice for the 2024/2025 cycle published an acceptance fee of ₦50,000; that archived amount may not apply now. Pay only through official University channels after checking the current notice.",
+    "keywords": [
+      "acceptance fee",
+      "acceptance",
+      "admission fee",
+      "accept",
+      "payment",
+      "50,000",
+      "50000"
+    ],
+    "intent": "fees",
+    "session": "2024/2025 archived reference",
+    "source": "Acceptance fee notice (2024/2025) — archived cycle",
+    "sourceUrl": "https://ui.edu.ng/news/utme-direct-entry-acceptance-fee-payment-prospective-candidates-20242025-admission-exercise-0",
+    "sources": [
+      {
+        "title": "Acceptance fee notice (2024/2025) — archived cycle",
+        "url": "https://ui.edu.ng/news/utme-direct-entry-acceptance-fee-payment-prospective-candidates-20242025-admission-exercise-0"
+      },
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "fee-003",
+    "category": "fees",
+    "question": "Is there an application or screening fee?",
+    "answer": "Yes — for the 2026/2027 Post-UTME / Direct Entry screening exercise, the University required payment through the Admission Portal of:\n\n- **Portal access fee:** ₦3,000.00\n- **Screening fee:** ₦2,000.00\n\nPayment options stated were Card (credit/debit ATM) and Bank Transfer. Candidates were expected to print the payment success receipt. Pay only via the official admissions portal.",
+    "keywords": [
+      "application fee",
+      "screening fee",
+      "registration fee",
+      "portal fee",
+      "3000",
+      "2000"
+    ],
+    "intent": "fees",
+    "session": "2026/2027",
+    "source": "Post-UTME/DE Screening Notice 2026/2027",
+    "sourceUrl": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise",
+    "sources": [
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      },
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  }
+]

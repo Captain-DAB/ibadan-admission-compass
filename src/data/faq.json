@@ -1,0 +1,116 @@
+[
+  {
+    "id": "faq-001",
+    "category": "faq",
+    "question": "Where can I find official admission information?",
+    "answer": "For admission announcements and registration, start at the University of Ibadan admissions portal. For general policy, consult the Undergraduate Admissions Office and official admission regulations. Check publication dates before relying on older cycle notices.",
+    "keywords": [
+      "official",
+      "source",
+      "website",
+      "link",
+      "where",
+      "information",
+      "help",
+      "verify",
+      "faq"
+    ],
+    "intent": "general_faq",
+    "source": "University of Ibadan admissions portal",
+    "sourceUrl": "https://admissions.ui.edu.ng/",
+    "sources": [
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      },
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      },
+      {
+        "title": "UI Regulations Governing Undergraduate Admissions",
+        "url": "https://admissions.ui.edu.ng/Regulation.pdf"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "faq-002",
+    "category": "faq",
+    "question": "Is this chatbot an official University of Ibadan service?",
+    "answer": "This is a school/research frontend Admission Assistant. It answers from a curated local knowledge base drawn from official University of Ibadan pages, but it is not an official substitute for Admission Unit decisions. Always verify critical information on the admissions portal or with the Admission Unit (uiadmin2011@mail.ui.edu.ng).",
+    "keywords": [
+      "is this official",
+      "chatbot",
+      "assistant",
+      "reliable",
+      "verified",
+      "disclaimer"
+    ],
+    "intent": "general_faq",
+    "source": "Project disclaimer — University of Ibadan Admission Assistant (research)",
+    "sources": [
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      },
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "faq-003",
+    "category": "faq",
+    "question": "Can the chatbot tell me if I will be admitted?",
+    "answer": "No. This assistant cannot predict admission outcomes or access personal application records. It only retrieves general admission information from its local knowledge base. For personal status, use official University channels.",
+    "keywords": [
+      "will i be admitted",
+      "chance of admission",
+      "prediction",
+      "guarantee",
+      "personal status"
+    ],
+    "intent": "admission_status",
+    "source": "Project guidance — consult official UI channels for personal status",
+    "sourceUrl": "https://admissions.ui.edu.ng/",
+    "sources": [
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "faq-004",
+    "category": "faq",
+    "question": "Does this chatbot fetch live information from the official UI website?",
+    "answer": "No. This is a frontend-only research project: it answers from a curated local knowledge base (JSON files), not by live-scraping or calling a paid AI API. Official facts are copied carefully from University pages (such as the Undergraduate Admissions Office and admissions.ui.edu.ng) into those files, with sources linked under each answer. When a detail is missing or cycle-specific, the assistant says so and points you to the official portal. To keep answers accurate, update the JSON knowledge base from current official notices each admission cycle.",
+    "keywords": [
+      "official website",
+      "scrape",
+      "live data",
+      "fetch from website",
+      "accurate information",
+      "knowledge base",
+      "how does it work"
+    ],
+    "intent": "general_faq",
+    "source": "Project architecture note",
+    "sourceUrl": "https://admissions.ui.edu.ng/",
+    "sources": [
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      },
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      }
+    ],
+    "lastUpdated": "2026"
+  }
+]

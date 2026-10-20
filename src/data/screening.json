@@ -1,0 +1,87 @@
+[
+  {
+    "id": "scr-001",
+    "category": "screening",
+    "question": "How does Post-UTME screening work?",
+    "answer": "For the 2026/2027 admission exercise, the University of Ibadan opened its admission portal for Post-UTME / Direct Entry registration, required payment of portal access and screening fees on the portal, and scheduled a Post-UTME examination from Monday 27 to Wednesday 29 July 2026. Each candidate’s examination date is communicated later, so valid email and phone details are required.\n\nCandidates are advised to check the list of matriculating subjects and the UTME/O’Level regulations for their course of choice. Direct Entry candidates upload credentials as directed in the notice.\n\nAlways follow the live official notice for your cycle.",
+    "keywords": [
+      "screening",
+      "post-utme",
+      "post utme",
+      "aptitude test",
+      "screen",
+      "exam",
+      "screening format",
+      "online"
+    ],
+    "intent": "screening",
+    "session": "2026/2027",
+    "source": "Post-UTME/DE Screening Notice 2026/2027",
+    "sourceUrl": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise",
+    "sources": [
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      },
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "scr-002",
+    "category": "screening",
+    "question": "When does screening registration close?",
+    "answer": "For the 2026/2027 Post-UTME / Direct Entry screening exercise, the University of Ibadan admission portal was opened for registration from Monday 22 June to Sunday 19 July 2026. The notice stated that there would be no extension of that registration period.\n\nFuture cycles may publish different dates — confirm on the latest official notice before registering.",
+    "keywords": [
+      "screening deadline",
+      "closing date",
+      "deadline",
+      "when",
+      "close",
+      "opens",
+      "opening date",
+      "registration close"
+    ],
+    "intent": "important_dates",
+    "session": "2026/2027",
+    "source": "Post-UTME/DE Screening Notice 2026/2027",
+    "sourceUrl": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise",
+    "sources": [
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "scr-003",
+    "category": "screening",
+    "question": "Who is eligible for screening?",
+    "answer": "Eligibility is defined in each cycle’s official notice. For the 2026/2027 exercise, the University required candidates registering for Post-UTME / Direct Entry screening to meet stated general conditions, including:\n\n- Age: at least sixteen (16) years by 30 September 2026.\n- O’Level sitting rules: College of Medicine and Faculty of Pharmacy — five credits at one sitting; other programmes using two sittings — at least six credits in relevant subjects.\n- Direct Entry: UI does not accept IJMB and JUPEP; accepted credentials include Cambridge Advanced Level, NCE, ND, HND and Degree certificates from recognised institutions.\n- Candidates should check matriculating subjects and the UTME/O’Level requirements for their chosen course in the official Regulations.\n\nUse the published notice and admissions portal for the exact eligible-candidate definition for your cycle.",
+    "keywords": [
+      "eligible for screening",
+      "screening eligibility",
+      "who can register",
+      "post utme eligibility"
+    ],
+    "intent": "screening",
+    "session": "2026/2027",
+    "source": "Post-UTME/DE Screening Notice 2026/2027",
+    "sourceUrl": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise",
+    "sources": [
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      },
+      {
+        "title": "UI Regulations (UTME & Direct Entry)",
+        "url": "https://admissions.ui.edu.ng/Regulation.pdf"
+      }
+    ],
+    "lastUpdated": "2026"
+  }
+]

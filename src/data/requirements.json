@@ -1,0 +1,141 @@
+[
+  {
+    "id": "req-001",
+    "category": "requirements",
+    "question": "How many O'Level credits do I need?",
+    "answer": "University regulations state a general minimum of five relevant O'Level credits in one sitting or six in two sittings. Required subjects and sitting limits depend on the chosen programme; check its current requirements in the official regulations before applying.",
+    "keywords": [
+      "o-level",
+      "olevel",
+      "waec",
+      "neco",
+      "credits",
+      "subjects",
+      "sitting",
+      "results",
+      "requirements"
+    ],
+    "intent": "admission_requirements",
+    "source": "UI Regulations Governing Undergraduate Admissions",
+    "sourceUrl": "https://admissions.ui.edu.ng/Regulation.pdf",
+    "sources": [
+      {
+        "title": "UI Regulations Governing Undergraduate Admissions",
+        "url": "https://admissions.ui.edu.ng/Regulation.pdf"
+      },
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "req-002",
+    "category": "utme",
+    "question": "What is the minimum UTME score?",
+    "answer": "The University's Undergraduate Admissions Office page states a minimum UTME score of 200. UTME cut-offs and eligibility can change for each admissions cycle and programme, so confirm the current University notice before applying.",
+    "keywords": [
+      "utme",
+      "jamb",
+      "score",
+      "cutoff",
+      "cut-off",
+      "points",
+      "200",
+      "eligibility",
+      "minimum score"
+    ],
+    "intent": "cut_off_mark",
+    "source": "University of Ibadan Undergraduate Admissions Office",
+    "sourceUrl": "https://ui.edu.ng/content/undergraduate-admissions-office",
+    "sources": [
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "req-003",
+    "category": "utme",
+    "question": "What is UTME admission at the University of Ibadan?",
+    "answer": "UTME (Unified Tertiary Matriculation Examination) is the standard entry route for most first-year undergraduate applicants through JAMB. Candidates normally need a qualifying UTME score, appropriate subject combination, and O'Level results that meet University and programme requirements. Always confirm the current cycle rules on the official admissions portal.",
+    "keywords": ["utme", "jamb", "unified tertiary", "first year", "100 level"],
+    "intent": "UTME",
+    "source": "University of Ibadan Undergraduate Admissions Office",
+    "sourceUrl": "https://ui.edu.ng/content/undergraduate-admissions-office",
+    "sources": [
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      },
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "req-004",
+    "category": "direct-entry",
+    "question": "Who can apply through Direct Entry?",
+    "answer": "The Undergraduate Admissions Office describes Direct Entry for applicants with qualifications such as A-level certificates, NCE, ND or HND who seek entry into a higher level. Accepted qualifications and programme-specific entry levels must be confirmed against the current official regulations.",
+    "keywords": [
+      "direct entry",
+      "de",
+      "a level",
+      "a-level",
+      "alevel",
+      "nce",
+      "nd",
+      "hnd",
+      "higher level",
+      "200 level",
+      "300 level"
+    ],
+    "intent": "direct_entry",
+    "source": "University of Ibadan Undergraduate Admissions Office",
+    "sourceUrl": "https://ui.edu.ng/content/undergraduate-admissions-office",
+    "sources": [
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      },
+      {
+        "title": "UI Regulations Governing Undergraduate Admissions",
+        "url": "https://admissions.ui.edu.ng/Regulation.pdf"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "req-005",
+    "category": "cut-off",
+    "question": "What is the cut-off mark for my programme?",
+    "answer": "The Undergraduate Admissions Office states that UTME candidates are expected to score a minimum of 200 out of 400. Programme or departmental cut-off marks can be higher and are published per admission cycle. There is no single cut-off for every course in this knowledge base — check the current University notice and admissions portal for your programme’s cut-off for the active session.",
+    "keywords": [
+      "cut off mark",
+      "cutoff",
+      "cut-off",
+      "departmental cutoff",
+      "programme cutoff"
+    ],
+    "intent": "cut_off_mark",
+    "source": "University of Ibadan Undergraduate Admissions Office",
+    "sourceUrl": "https://ui.edu.ng/content/undergraduate-admissions-office",
+    "sources": [
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      },
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  }
+]

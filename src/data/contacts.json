@@ -1,0 +1,54 @@
+[
+  {
+    "id": "con-001",
+    "category": "contacts",
+    "question": "How can I contact the University of Ibadan Admission Unit?",
+    "answer": "For admission enquiries, the Undergraduate Admissions Office page lists this email: uiadmin2011@mail.ui.edu.ng. You can also use the official admissions portal for process notices. Prefer only official ui.edu.ng channels, and confirm contact details on the live University page in case they change.",
+    "keywords": [
+      "contact",
+      "admission unit",
+      "admissions office",
+      "email",
+      "phone",
+      "help desk",
+      "reach"
+    ],
+    "intent": "contact_information",
+    "source": "University of Ibadan Undergraduate Admissions Office",
+    "sourceUrl": "https://ui.edu.ng/content/undergraduate-admissions-office",
+    "sources": [
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      },
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "con-002",
+    "category": "contacts",
+    "question": "What is the official admissions website?",
+    "answer": "The University of Ibadan undergraduate admissions portal is https://admissions.ui.edu.ng/. Use it for application and screening registration instructions. Always confirm you are on an official University domain before sharing personal information or making payments.",
+    "keywords": [
+      "admissions website",
+      "official website",
+      "portal",
+      "admissions.ui.edu.ng",
+      "website"
+    ],
+    "intent": "application_portal",
+    "source": "University of Ibadan admissions portal",
+    "sourceUrl": "https://admissions.ui.edu.ng/",
+    "sources": [
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "id": "adm-001",
+    "category": "admission",
+    "question": "What are the general admission requirements?",
+    "answer": "Admission into the University of Ibadan is through two entry types: Direct Entry and UTME (Unified Tertiary Matriculation Examination).\n\n**UTME route (100 level):** Candidates sit the JAMB UTME and are expected to score a minimum of 200 out of 400. They must also satisfy the University’s minimum O’Level requirements and programme-specific subject combinations.\n\n**O’Level:** Acceptable results include NECO, WAEC, GCE London moderated O’Level and University of Cambridge moderated O’Level. The minimum is five credits at one sitting in the relevant subjects, or six credits at two sittings. English Language is compulsory for all courses; Mathematics is required for all science-based courses and Economics.\n\n**Direct Entry:** For entry into 200 or 300 level, depending on qualifications such as A-level, NCE, ND or HND. Candidates obtain the Direct Entry form by registering online on the JAMB website.\n\nFor the 2026/2027 screening exercise, candidates must have attained the age of sixteen (16) years by 30 September 2026. College of Medicine and Faculty of Pharmacy programmes require five credits at one sitting; other programmes presenting two O’Level sittings need at least six credits in relevant subjects.",
+    "keywords": [
+      "admission requirements",
+      "eligibility",
+      "qualifications",
+      "what do i need",
+      "get admitted",
+      "requirements for admission"
+    ],
+    "intent": "admission_requirements",
+    "session": "2026/2027",
+    "source": "UI Undergraduate Admissions Office; Post-UTME/DE Screening Notice 2026/2027",
+    "sourceUrl": "https://ui.edu.ng/content/undergraduate-admissions-office",
+    "sources": [
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      },
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      },
+      {
+        "title": "UI Regulations (UTME & Direct Entry)",
+        "url": "https://admissions.ui.edu.ng/Regulation.pdf"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "adm-002",
+    "category": "admission",
+    "question": "Is there a minimum age for admission?",
+    "answer": "For the 2026/2027 Post-UTME / Direct Entry screening exercise, the University of Ibadan states that candidates must have attained the age of sixteen (16) years by 30 September 2026.",
+    "keywords": ["age", "16", "old", "eligibility", "underage", "minimum age"],
+    "intent": "admission_requirements",
+    "session": "2026/2027",
+    "source": "Post-UTME/DE Screening Notice 2026/2027",
+    "sourceUrl": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise",
+    "sources": [
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "adm-003",
+    "category": "application",
+    "question": "What are the application steps?",
+    "answer": "For the 2026/2027 Post-UTME / Direct Entry screening exercise, the University directed candidates as follows:\n\n1. Log into the Admission Portal (https://www.admissions.ui.edu.ng) using your JAMB Registration Number as username (e.g. 202612345678EG) and your surname as the initial password.\n2. Pay the portal access fee of ₦3,000.00 and screening fee of ₦2,000.00 through the Admission Portal in favour of the University of Ibadan (Card or Bank Transfer).\n3. Print the payment success receipt.\n4. Complete registration within the published window (22 June to 19 July 2026 for that exercise — the University stated there would be no extension).\n5. Provide valid email and phone numbers so examination schedules can be communicated.\n6. Direct Entry candidates are to upload their credentials to ugadmissions@stu.ui.edu.ng and follow the notice guidelines strictly.\n\nAlways confirm you are on the official University portal before paying or submitting personal information.",
+    "keywords": [
+      "application steps",
+      "how to apply",
+      "process",
+      "procedure",
+      "submit application",
+      "want to apply"
+    ],
+    "intent": "application_process",
+    "session": "2026/2027",
+    "source": "Post-UTME/DE Screening Notice 2026/2027",
+    "sourceUrl": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise",
+    "sources": [
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      },
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "adm-004",
+    "category": "application",
+    "question": "Where do I apply online?",
+    "answer": "Undergraduate Post-UTME / Direct Entry registration is done on the official University of Ibadan Admission Portal: https://www.admissions.ui.edu.ng (also referred to as admissions.ui.edu.ng). Log in with your JAMB Registration Number and follow the current official notice before entering personal information or making payment.",
+    "keywords": [
+      "apply",
+      "application portal",
+      "admissions portal",
+      "where can i apply",
+      "register",
+      "admissions.ui.edu.ng"
+    ],
+    "intent": "application_portal",
+    "source": "Post-UTME/DE Screening Notice 2026/2027",
+    "sourceUrl": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise",
+    "sources": [
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      },
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "adm-005",
+    "category": "documents",
+    "question": "What documents do I need for admission?",
+    "answer": "From official UI admissions guidance:\n\n- Candidates upload credentials online through the admissions process (the Admissions Office notes automated online submission of credentials).\n- Acceptable O’Level examining bodies include WAEC, NECO, and Cambridge (as stated for Direct Entry in the 2026/2027 notice).\n- For Direct Entry, UI does not accept IJMB and JUPEP; it accepts Cambridge Advanced Level, NCE, ND, HND and Degree certificates from recognised institutions.\n- Direct Entry candidates for the 2026/2027 screening were instructed to upload credentials to ugadmissions@stu.ui.edu.ng.\n- Programme-specific O’Level and UTME combinations are in the official Regulations PDF.\n\nAlways follow the document checklist on the live admissions portal notice for your cycle.",
+    "keywords": [
+      "documents",
+      "credentials",
+      "upload",
+      "birth certificate",
+      "passport photograph",
+      "results slip"
+    ],
+    "intent": "required_documents",
+    "session": "2026/2027",
+    "source": "UI Undergraduate Admissions Office; Post-UTME/DE Screening Notice 2026/2027",
+    "sourceUrl": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise",
+    "sources": [
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      },
+      {
+        "title": "UI Regulations (UTME & Direct Entry)",
+        "url": "https://admissions.ui.edu.ng/Regulation.pdf"
+      },
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "adm-006",
+    "category": "status",
+    "question": "How do I check my admission status?",
+    "answer": "This assistant cannot look up personal admission records. After screening and processing, the Undergraduate Admissions Office processes successful candidates to JAMB for approval. Check your status on the official UI admissions portal and through JAMB’s official channels using the instructions in University notices for your cycle. For enquiries, the Admissions Office email is uiadmin2011@mail.ui.edu.ng.",
+    "keywords": [
+      "admission status",
+      "check status",
+      "offer of admission",
+      "admission list",
+      "have i been admitted"
+    ],
+    "intent": "admission_status",
+    "source": "UI Undergraduate Admissions Office",
+    "sourceUrl": "https://ui.edu.ng/content/undergraduate-admissions-office",
+    "sources": [
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      },
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "adm-007",
+    "category": "dates",
+    "question": "What are the important admission dates?",
+    "answer": "From the official Post-UTME / Direct Entry Screening Notice for the 2026/2027 admission exercise:\n\n- **Portal registration:** Monday 22 June to Sunday 19 July 2026 (the University stated there would be no extension).\n- **Post-UTME examination:** Monday 27 to Wednesday 29 July 2026 (each candidate’s exam date is communicated later).\n- **Minimum age reference date:** candidates must be 16 years old by 30 September 2026.\n\nDates are cycle-specific. Always re-check the latest notice on ui.edu.ng / the admissions portal before acting.",
+    "keywords": [
+      "important dates",
+      "deadline",
+      "timeline",
+      "when does",
+      "registration open",
+      "closing date"
+    ],
+    "intent": "important_dates",
+    "session": "2026/2027",
+    "source": "Post-UTME/DE Screening Notice 2026/2027",
+    "sourceUrl": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise",
+    "sources": [
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      }
+    ],
+    "lastUpdated": "2026"
+  }
+]

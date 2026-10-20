@@ -1,0 +1,131 @@
+[
+  {
+    "id": "prog-001",
+    "category": "programmes",
+    "question": "Which programmes are available?",
+    "answer": "The University of Ibadan offers undergraduate programmes across its faculties and colleges. The Undergraduate Admissions Office processes admission into the various academic programmes using prescribed rules and regulations.\n\nThe official list of programmes with UTME subjects, O’Level requirements and Direct Entry requirements is published in the University’s Regulations for UTME and Direct Entry: https://admissions.ui.edu.ng/Regulation.pdf\n\nUse that regulations document and the admissions portal to confirm whether a programme is offered in the current cycle.",
+    "keywords": [
+      "programmes",
+      "programs",
+      "courses",
+      "available courses",
+      "departments",
+      "degree",
+      "faculty",
+      "what can i study"
+    ],
+    "intent": "available_courses",
+    "source": "UI Undergraduate Admissions Office; UI Regulations (UTME & Direct Entry)",
+    "sourceUrl": "https://admissions.ui.edu.ng/Regulation.pdf",
+    "sources": [
+      {
+        "title": "UI Regulations (UTME & Direct Entry)",
+        "url": "https://admissions.ui.edu.ng/Regulation.pdf"
+      },
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      },
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "prog-002",
+    "category": "programme-requirement",
+    "question": "How do I check requirements for my course?",
+    "answer": "Programme-specific UTME subject combinations and O’Level requirements are published in the official University of Ibadan Regulations for UTME and Direct Entry (Regulation.pdf). The 2026/2027 screening notice also directs candidates to view UTME combination and O’Level requirements for their courses of choice in those regulations.\n\nDo not copy another programme’s requirements. Always match the exact programme name in the official document.",
+    "keywords": [
+      "programme requirements",
+      "program requirements",
+      "course requirements",
+      "subject combination",
+      "department",
+      "faculty",
+      "jamb combination"
+    ],
+    "intent": "programme_requirements",
+    "source": "UI Regulations (UTME & Direct Entry); Screening Notice 2026/2027",
+    "sourceUrl": "https://admissions.ui.edu.ng/Regulation.pdf",
+    "sources": [
+      {
+        "title": "UI Regulations (UTME & Direct Entry)",
+        "url": "https://admissions.ui.edu.ng/Regulation.pdf"
+      },
+      {
+        "title": "Post-UTME/DE Screening Notice 2026/2027",
+        "url": "https://ui.edu.ng/news/post-utmedirect-entry-screening-prospective-candidates-20262027-admission-exercise"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "cs-001",
+    "category": "programme-requirement",
+    "question": "How do I enter UI as a Computer Science student?",
+    "answer": "According to the official UI Regulations for UTME and Direct Entry (Computer Science under Computing) and the Undergraduate Admissions Office:\n\n**UTME subjects:** English Language, Mathematics, Chemistry and Physics.\n\n**O’Level:** 5 O’Level subjects at one sitting or 6 at two sittings to include English Language, Mathematics, Chemistry, Physics and one other Science subject (excluding Agricultural Science).\n\n**University UTME minimum:** at least 200 out of 400 (departmental cut-offs may be higher).\n\n**Direct Entry (from regulations):** (i) Two A-level subject passes in Mathematics (pure or applied) and Physics; or (ii) OND/HND in Computer Science or any other Mathematics-based courses with Upper Credit. IBADAN accepts OND/HND in Computer Science with Upper Credit.\n\n**Programme length (Faculty of Science, Department of Computer Science):** B.Sc Computer Science — 4 years for UTME students and 3 years for Direct Entry students.\n\n**Next steps:** Choose UI and Computer Science in JAMB, meet the requirements above, then complete Post-UTME / screening registration on https://admissions.ui.edu.ng when the cycle is open.",
+    "keywords": [
+      "computer science",
+      "requirements",
+      "subjects",
+      "O'Level",
+      "csc",
+      "computing",
+      "how do i enter",
+      "how to gain admission",
+      "apply for computer science",
+      "cs student",
+      "enter ui"
+    ],
+    "programme": "Computer Science",
+    "intent": "programme_requirements",
+    "session": "2026",
+    "source": "UI Regulations (UTME & Direct Entry); Faculty of Science — Computer Science",
+    "sourceUrl": "https://admissions.ui.edu.ng/Regulation.pdf",
+    "sources": [
+      {
+        "title": "UI Regulations (UTME & Direct Entry)",
+        "url": "https://admissions.ui.edu.ng/Regulation.pdf"
+      },
+      {
+        "title": "Department of Computer Science — Academic programme",
+        "url": "https://sci.ui.edu.ng/compsciacademic"
+      },
+      {
+        "title": "University of Ibadan Undergraduate Admissions Office",
+        "url": "https://ui.edu.ng/content/undergraduate-admissions-office"
+      }
+    ],
+    "lastUpdated": "2026"
+  },
+  {
+    "id": "prog-003",
+    "category": "programme-information",
+    "question": "Where can I learn more about a specific programme?",
+    "answer": "For admission subject requirements, use the official UI Regulations PDF: https://admissions.ui.edu.ng/Regulation.pdf\n\nFor departmental programme descriptions (duration, options), check the relevant faculty/department pages on ui.edu.ng (for example, Faculty of Science Computer Science programme page). Screening and registration instructions are published on the admissions portal and University news notices.",
+    "keywords": [
+      "programme information",
+      "about the course",
+      "about the programme",
+      "faculty",
+      "department overview"
+    ],
+    "intent": "programme_information",
+    "source": "UI Regulations; University of Ibadan web faculties",
+    "sourceUrl": "https://admissions.ui.edu.ng/Regulation.pdf",
+    "sources": [
+      {
+        "title": "UI Regulations (UTME & Direct Entry)",
+        "url": "https://admissions.ui.edu.ng/Regulation.pdf"
+      },
+      {
+        "title": "University of Ibadan admissions portal",
+        "url": "https://admissions.ui.edu.ng/"
+      }
+    ],
+    "lastUpdated": "2026"
+  }
+]
