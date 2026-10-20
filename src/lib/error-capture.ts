@@ -4,22 +4,7 @@
 let lastCapturedError: { error: unknown; at: number } | undefined;
 const TTL_MS = 5_000;
 
-function isBenignAbortError(error: unknown): boolean {
-  if (!(error instanceof Error)) return false;
-  const message = error.message.toLocaleLowerCase();
-  if (error.name === "AbortError") return true;
-  if (message === "aborted" || message === "request aborted") return true;
-  // Browser/client closed the connection mid-SSR (refresh, HMR, navigation).
-  const status = (error as { status?: unknown; statusCode?: unknown }).status
-    ?? (error as { statusCode?: unknown }).statusCode;
-  if (message.includes("aborted") && (status === 499 || status === 500 || status == null)) {
-    return true;
-  }
-  return false;
-}
-
 function record(error: unknown) {
-  if (isBenignAbortError(error)) return;
   lastCapturedError = { error, at: Date.now() };
 }
 
@@ -69,11 +54,6 @@ function isErrorLike(value: unknown): value is Error {
 // recorded for consumeLastCapturedError and expanded before serialization.
 const originalConsoleError = console.error.bind(console);
 console.error = (...args: unknown[]) => {
-  // Client disconnects during Vite SSR commonly surface as "Error: aborted".
-  // They are not application failures — skip noisy 500 spam in the terminal.
-  if (args.some((arg) => isBenignAbortError(arg))) {
-    return;
-  }
   const expanded = args.map((arg) => {
     if (!isErrorLike(arg)) return arg;
     record(arg);
