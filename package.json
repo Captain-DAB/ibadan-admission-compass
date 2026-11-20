@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
   "homepage": "https://github.com/Captain-DAB/ibadan-admission-compass",
+=======
+>>>>>>> parent of 904549c (Committed successfully)
   "name": "tanstack_start_ts",
   "private": true,
   "sideEffects": false,
@@ -12,9 +15,13 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "test": "vitest run",
+<<<<<<< HEAD
     "test:watch": "vitest",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d .output/public -t"
+=======
+    "test:watch": "vitest"
+>>>>>>> parent of 904549c (Committed successfully)
   },
   "overrides": {
     "rolldown": "1.2.1"
